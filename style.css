@@ -64,3 +64,26 @@
     color: white;
     padding: 5px;
 }
+.div2{
+    width: 26.4%;
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow: 5px 5px 5px grey;
+
+
+}
+.div2 h1{
+    padding: 20px 10px;
+    font-weight: 500;
+
+}
+.div2 p{
+    padding: 20px 10px ;
+    font-weight: 100;
+
+}
+.box1{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
