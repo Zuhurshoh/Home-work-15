@@ -110,3 +110,33 @@
   display: inline;
   padding-left: 400px;
 }
+.div4{
+    width: 30%;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px grey;
+}
+.box2{
+    padding-left: 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.div4 img{
+    padding: 0;
+    width: 100%;
+
+}
+.div4 h3{
+    padding: 10px 20px;
+    padding-bottom: 20px;
+    font-weight: 400;
+    border-bottom: 1px solid gray;
+    
+}
+.div4{
+    width: 30%;
+    position: relative;
+    bottom: 80px;
+
+}
