@@ -140,3 +140,27 @@
     bottom: 80px;
 
 }
+.div6{
+    position: relative;
+    width: 30%;
+    border: 1px solid grey;
+
+}.div6 h2{
+    border-bottom: 1px solid grey;
+    padding: 10px;
+    background-color: rgb(228, 212, 212);
+}
+.div6 button{
+    background-color: rgb(233, 212, 212);
+    
+
+}
+.btt{
+    background-color: black;
+    color: white;
+}
+.div6{
+  position: relative;
+  left: 1030px;
+  top: -200px;
+}
