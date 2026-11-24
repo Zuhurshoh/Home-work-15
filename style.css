@@ -1,0 +1,166 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.h1 {
+  text-align: center;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+.p1 {
+  text-align: center;
+  font-weight: 300;
+  padding-bottom: 50px;
+}
+.sp {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+.div1 {
+  width: 60%;
+  margin: 10px;
+  box-shadow: 5px 5px 5px grey;
+
+  border: 1px solid black;
+}
+.div1 h1 {
+  padding: 20px 10px;
+  font-weight: 400;
+  width: 100%;
+}
+.div1 h3 {
+  padding-bottom: 20px;
+  font-weight: 400;
+  padding-left: 10px;
+}
+.div1 p {
+  font-weight: 100;
+  padding-left: 10px;
+
+  padding-bottom: 20px;
+  width: 80%;
+}
+.div1 button {
+  margin-left: 10px;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-weight: 700;
+}
+.div1 h5 {
+  display: inline;
+  padding-left: 400px;
+}
+.div1 img {
+  width: 100%;
+}
+.sp1 {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+.div2 {
+  width: 26.4%;
+  border: 1px solid black;
+  margin: 10px;
+  box-shadow: 5px 5px 5px grey;
+}
+.div2 h1 {
+  padding: 20px 10px;
+  font-weight: 500;
+}
+.div2 p {
+  padding: 20px 10px;
+  font-weight: 100;
+}
+.box1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.div3 {
+  width: 60%;
+  margin: 10px;
+  box-shadow: 5px 5px 5px grey;
+  border: 1px solid black;
+}
+.div3 img {
+  width: 100%;
+}
+.div3 h1 {
+  padding: 20px 10px;
+  font-weight: 500;
+}
+.div3 h3 {
+  padding-bottom: 20px;
+  font-weight: 400;
+  padding-left: 10px;
+}
+.div3 p {
+  padding: 20px 10px;
+  font-weight: 100;
+}
+.div3 button {
+  margin-left: 10px;
+  margin-bottom: 15px;
+  padding: 10px;
+  font-weight: 700;
+}
+.div3 h5 {
+  display: inline;
+  padding-left: 400px;
+}
+.div4{
+    width: 30%;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px grey;
+}
+.box2{
+    padding-left: 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.div4 img{
+    padding: 0;
+    width: 100%;
+
+}
+.div4 h3{
+    padding: 10px 20px;
+    padding-bottom: 20px;
+    font-weight: 400;
+    border-bottom: 1px solid gray;
+    
+}
+.div4{
+    width: 30%;
+    position: relative;
+    bottom: 80px;
+
+}
+.div6{
+    position: relative;
+    width: 30%;
+    border: 1px solid grey;
+
+}.div6 h2{
+    border-bottom: 1px solid grey;
+    padding: 10px;
+    background-color: rgb(228, 212, 212);
+}
+.div6 button{
+    background-color: rgb(233, 212, 212);
+    
+
+}
+.btt{
+    background-color: black;
+    color: white;
+}
+.div6{
+  position: relative;
+  left: 1030px;
+  top: -200px;
+}
